@@ -12,7 +12,7 @@ Durante o desenvolvimento deste projeto, foquei em aprimorar minhas habilidades 
 
 </br>
 
-Utilize o link para acessar o resultado final da Landing Page criada: <a href="https://lucasmm77.github.io/trilha-css-desafio-01/">https://lucasmm77.github.io/trilha-css-desafio-01/</a>
+Utilize o link para acessar o resultado final da Landing Page criada: <a href="https://lucasmm77.github.io/trilha-css-desafio-01/" target="_blank">https://lucasmm77.github.io/trilha-css-desafio-01/</a>
 </br>
 </br>
 
